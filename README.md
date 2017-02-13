@@ -14,4 +14,4 @@ docker-compose build
 4.) Launch the application
 docker-compose up
 
-5.) Once the application is up-and-running, go to http:localhost/admin to login. Use the comfy default login and password details to access the admin console.
+5.) Once the application is up-and-running, go to http:localhost:3000/admin to login. Use the comfy default login and password details to access the admin console.
